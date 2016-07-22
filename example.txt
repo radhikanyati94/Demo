@@ -2,4 +2,9 @@ Hello world
 hello
 
 in Request 1
-after some changes 
+after some changes
+
+
+from request 02
+
+ added these four method 
